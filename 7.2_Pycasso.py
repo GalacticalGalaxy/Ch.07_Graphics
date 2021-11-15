@@ -18,8 +18,8 @@ import arcade
 
 SH = 160
 SW = SH
-arcade.open_window(SW, SH, "Flag Project", True)
-arcade.set_background_color(arcade.color.WHITE)
+arcade.open_window(SW, SH, "Bryce Huey", True)
+arcade.set_background_color(arcade.color.LIGHT_BLUE)
 arcade.start_render()
 
 #Back knocht------------------------------------------------------------
